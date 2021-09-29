@@ -1,7 +1,7 @@
 /**
  * Main actions in the app
  *
- * @author Adrián Rodríguez (@adrikaii)
+ * @author Adrián Rodríguez - @adrikai
  *
  *@version 1.0
  */
